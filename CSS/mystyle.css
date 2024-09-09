@@ -1,0 +1,91 @@
+
+.topnav {
+    background-color: #150300;
+    overflow: hidden;
+  }
+  
+
+  .topnav a {
+    color: #f2f2f2;
+    text-align: center;
+    position: relative;
+    right: -1200px;
+    display: inline-block;
+    margin: 15px;
+    text-transform: uppercase;
+    padding: px 10px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+
+  .topnav a.active {
+    background-color: #150300;
+    color: white;
+  }
+
+  .theplace a {
+    text-align: center;
+    position: relative;
+    right: -100px;
+  }
+
+  h1 {
+    text-align: center;
+    position: relative;
+    bottom: -125px;
+    right: 450px;
+    color: rgb(233, 168, 28);
+    font-style: italic;
+    font-size: 40px;
+}
+  
+  h2 {
+    text-align: center;
+    position: relative;
+    bottom: -65px;
+    right: 455px;
+    color: (233, 168, 28);
+    font-style: none;
+    font-size: 65px;
+}
+
+span {
+    content: "\2605";
+    text-align: center;
+    position: relative;
+    bottom: 467px;
+    left: 475px;
+    font-size: 35px;
+    font-style: none;
+    color: #ddd;
+  }
+
+  p {
+    text-align: center;
+    position: relative;
+    bottom: 490px;
+    right: 450px;
+    font-size: 30px;
+
+}
+
+  img {
+    text-align: center;
+    position: relative;
+    bottom: 115px;
+    right: -800px;
+    width: 700px;
+
+}
+
+  .aboutus a {
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    right: -452px;
+    text-transform: uppercase;
+    font-style: bold;
+    color: rgb(233, 168, 28);
+
+  }

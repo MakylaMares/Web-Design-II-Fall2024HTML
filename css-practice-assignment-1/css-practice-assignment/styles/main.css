@@ -1,0 +1,40 @@
+/* Your css goes here */
+
+body {
+    color: #141414;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.colortext {
+    color: red;
+}
+
+.with-border {
+    border: solid 1px blue;
+    padding: 5px;
+}
+
+.primary-button {
+    border-radius: 7px;
+    padding: 1em;
+    background-color: blue;
+    color: white;
+    font-size: 24px;
+}
+
+.m-p {
+    margin: 2em 1em;
+    padding: 5px;
+    text-align: center;
+}
+
+.avatar {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 1px solid #d3d3d3;
+}

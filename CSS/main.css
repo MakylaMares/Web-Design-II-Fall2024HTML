@@ -1,6 +1,6 @@
 /* Your css goes here */
-p {
-    color: red;
+body {
+    color: #414141;
 }
 
 .colortext {
@@ -22,18 +22,16 @@ p {
 }
 
 .m-p {
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 1em;
-    margin-right: 1em;
+    margin: 2em 1em;
+    padding: 10px;
+    text-align: center;
 }
 
 .avatar {
     height: 250px;
-    object-fit: cover;
+    width: 250px;
     border-radius: 50%;
-    border: 1px;
-    color: #d3d3d3;
+    border: 1px solid #d3d3d3
 }
 
 h1 {

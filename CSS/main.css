@@ -1,0 +1,43 @@
+/* Your css goes here */
+p {
+    color: red;
+}
+
+.colortext {
+    color: red;
+}
+
+.with-border {
+    border: solid 1px; 
+    color: blue;
+    padding: 5px;
+}
+
+.primary-button {
+    border-radius: 7px;
+    padding: 1em;
+    background-color: blue;
+    font-size: 24px; 
+    color: white;
+}
+
+.m-p {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.avatar {
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px;
+    color: #d3d3d3;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
